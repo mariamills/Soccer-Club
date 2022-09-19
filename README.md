@@ -1,5 +1,5 @@
 # Youth Soccer-Club
-An early project to advance my knowledge of HTML, CSS, and JavaScript as well as Bootstrap 5, this website was designed for a fictional Youth Soccer Club.
+An early project to advance my knowledge of HTML, CSS, and JavaScript as well as Bootstrap 5, this is a front-end responsive website that was designed for a fictional Youth Soccer Club.
 
 Bootstrap 5 is a popular HTML, CSS, and JavaScript framework for creating responsive, mobile-first websites
  
