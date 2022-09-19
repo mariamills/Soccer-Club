@@ -1,5 +1,7 @@
-# Soccer-Club
- A frontend website built with Bootstrap 5.
+# Youth Soccer-Club
+An early project to advance my knowledge of HTML, CSS, and JavaScript as well as Bootstrap 5, this website was designed for a fictional Youth Soccer Club.
+
+Bootstrap 5 is a popular HTML, CSS, and JavaScript framework for creating responsive, mobile-first websites
  
  Live Demo: https://soccer-club.pages.dev/
  
